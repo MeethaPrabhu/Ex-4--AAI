@@ -64,7 +64,7 @@ print("The most likely sequence of the weather states is:", most_likely_sequence
 ```
 
 ## Output:
-Observed Sequence
+<br> Observed Sequence <br>
 ![alt text](image.png)
 
 Most Likely Sequence of the weather
